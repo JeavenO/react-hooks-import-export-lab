@@ -7,3 +7,6 @@ function NavBar() {
     </nav>
   );
 }
+
+// Default export for the NavBar component
+export default NavBar;
